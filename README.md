@@ -1,35 +1,17 @@
-# Project Title
-
-Hello from CNE310!
-
-One Paragraph of project description goes here.
+# CNE310 IP Address Homework
+Python_homework.py script that can determine if a particular IP address (192.168.0.1) belongs to the router or a lease.
 
 ## Getting Started
+Following these steps will help you classify IP addresses on your own system using the Python_homework.py script.
 
-These instructions will [do something] on your local machine for [development/experimentation/demo].
-
-### Prerequisites
-
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
-
-```
-sudo apt update
-sudo apt upgrade
-sudo apt install package1 package2
-```
+## Prerequisites
+ Python_homework.py requires Python 3 to run. You can install python from here: https://www.python.org/downloads/. 
 
 ## Running
 Once installed you can run the program with the following command
 
 ```
-python cne_demo.py
+Python Python_homework.py
 ```
-
-Add any additional ways to run the program below
-
-```
-python cne_demo.py test.txt
-```
-
-## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+## Thanks 
+Thanks to Zak for this demo.
